@@ -1,11 +1,9 @@
 # PHI: Portraits of Human Intelligence
-# AI Alignment Framework: Encoding Divergence
-
-# Founder and Author: Jo Esterly
-
 # PHI is a framework designed to help AI encode human signal
   
-# see in Repository:  AI Alignment Framework: Encoding Divergence 
+# Founder and Author: Jo Esterly
+
+# in Repository:  "AI Alignment Framework: Encoding Divergence"
 
 Contributions are welcome --- particularly sovereignty marker documentation 
 
