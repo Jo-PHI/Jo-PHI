@@ -1,4 +1,4 @@
-# # PHI: Portraits of Human Intelligence
+# PHI: Portraits of Human Intelligence
 
 **AI Alignment Framework: Encoding Divergence**
 **Author**: Jo Esterly
