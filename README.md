@@ -2,7 +2,7 @@
 
 # PHI is a framework designed to teach AI to encode human signal before correction
   
-# Built from 30+ years of fieldwork documeting expertise, tacit knowledge and intentional divergence that go beyond standard patterns  
+# Built from 30+ years of fieldwork documenting expertise, tacit knowledge and intentional divergence that go beyond standard patterns  
 
 # PHI Founder and Author: Jo Esterly
 
