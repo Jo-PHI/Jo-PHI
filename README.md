@@ -5,7 +5,7 @@
 
 # PHI is a framework designed to help AI encode human signal
   
-# see File in Profile:  AI Alignment Framework: Encoding Divergence 
+# see in Repository:  AI Alignment Framework: Encoding Divergence 
 
 Contributions are welcome --- particularly sovereignty marker documentation 
 
