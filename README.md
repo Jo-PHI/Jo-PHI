@@ -1,9 +1,12 @@
-# PHI: Portraits of HI 
-# PHI is a framework designed to help AI encode human signal
-  
-# Founder and Author: Jo Esterly
+# PHI (Portraits of Human Intelligence) 
 
-# "AI Alignment Framework: Encoding Divergence"
+# PHI is a framework designed to teach AI to encode human signal before correction
+  
+# Built from 30+ years of fieldwork documeting expertise, tacit knowledge and intentional diveregence that diverge from standard patterns  
+
+# PHI Founder and Author: Jo Esterly
+
+# README: "AI Alignment Framework: Encoding Divergence"
 https://github.com/Jo-PHI/Jo-PHI.git
 
 Contributions are welcome --- particularly sovereignty marker documentation 
