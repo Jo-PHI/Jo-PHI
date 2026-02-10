@@ -1,8 +1,8 @@
 # PHI (Portraits of Human Intelligence) 
 
-# PHI is a framework designed to teach AI to encode human signal before correction
+# PHI is a framework designed to teach AI to scan human intelligence signal before correction
   
-# Built from 30+ years of fieldwork documenting expertise, tacit knowledge and intentional divergence that go beyond standard patterns  
+# Built from 30+ years of fieldwork documenting adaptive solutions, tacit knowledge and intentional divergence that go beyond standard patterns  
 
 # PHI Founder and Author: Jo Esterly
 
