@@ -1,14 +1,10 @@
-# PHI (Portraits of Human Intelligence) 
+# Jo Esterly
 
-# PHI is a framework designed to teach AI to scan human intelligence signal before correction
-  
-# Built from 30+ years of fieldwork documenting adaptive solutions, tacit knowledge and intentional divergence that go beyond standard patterns  
+# I am writing our Shadow Resume: the intangible intelligence that emerges when known paths have been depleted.  
 
-# PHI Founder and Author: Jo Esterly
 
 # README: "AI Alignment Framework: Encoding Divergence"
 https://github.com/Jo-PHI/Jo-PHI.git
 
-Contributions are welcome --- particularly sovereignty marker documentation 
 
 📫 contact: phi@joesterly.com 
