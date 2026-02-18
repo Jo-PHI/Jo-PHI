@@ -33,3 +33,5 @@ https://github.com/Jo-PHI/Jo-PHI.git
 email: phi@joesterly.com 
 
 website: https://jo-phi.github.io/joesterly.com/
+
+LinkedIn Posts: https://www.linkedin.com/in/jo-esterly-153a6b3b1
