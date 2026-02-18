@@ -26,12 +26,9 @@ I am exploring what happens when we narrate this intelligence to AI models.
 *  **Protocol:** Visibility to adaptive human reasoning
 *  **Goal:** To enhance models to weigh expertise in giving the user actionable support.
 
-
 # README: "AI Alignment Framework: Encoding Divergence"
 https://github.com/Jo-PHI/Jo-PHI.git
 
-email: phi@joesterly.com 
 
 website: https://jo-phi.github.io/joesterly.com/
-
-LinkedIn Posts: https://www.linkedin.com/in/jo-esterly-153a6b3b1
+email: phi@joesterly.com 
