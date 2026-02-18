@@ -16,4 +16,4 @@ https://github.com/Jo-PHI/Jo-PHI.git
 
 email: phi@joesterly.com 
 
-website: joesterly.net
+website: https://jo-phi.github.io/joesterly.com/
