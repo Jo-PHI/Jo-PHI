@@ -30,5 +30,6 @@ I am exploring what happens when we narrate this intelligence to AI models.
 https://github.com/Jo-PHI/Jo-PHI.git
 
 
-website: https://jo-phi.github.io/joesterly.com/
+website: https://jo-phi.github.io/joesterly.com
+
 email: phi@joesterly.com 
