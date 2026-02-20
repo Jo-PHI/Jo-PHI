@@ -1,6 +1,6 @@
 # Jo Esterly
 
-# I am writing our Shadow Resume: the intangible intelligence that emerges when known paths have been depleted.  
+# I am writing our Shadow Resume: the powerful intelligence that emerges when the mind has exhausted its options.  
 
 **The Problem:**
 
