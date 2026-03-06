@@ -29,6 +29,8 @@ I am exploring what happens when we narrate this intelligence to AI models.
 # README: "AI Alignment Framework: Encoding Divergence"
 https://github.com/Jo-PHI/Jo-PHI.git
 
+# README: Widening the Field of View: Allowing AI to See Human Intelligence
+
 
 website: https://jo-phi.github.io/joesterly.com
 
