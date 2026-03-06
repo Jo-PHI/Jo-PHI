@@ -30,7 +30,7 @@ I am exploring what happens when we narrate this intelligence to AI models.
 https://github.com/Jo-PHI/Jo-PHI.git
 
 # README: Widening the Field of View: Allowing AI to See Human Intelligence
-
+https://github.com/Jo-PHI/PHI-Framework-Widening-the-Lens-of-AI-Models
 
 website: https://jo-phi.github.io/joesterly.com
 
