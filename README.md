@@ -1,6 +1,6 @@
 # Jo Esterly
 
-# I focus on mapping human expertise, constructive deviation and adaptive reasoning within optimized systems. I have conducted simulation studies tracing human overrides in system workflows and write regularly on the intersection of human expertise and AI. 
+# My work focuses on mapping human expertise, constructive deviation and adaptive reasoning within optimized systems. I have conducted simulation studies tracing human overrides in system workflows and write regularly on the intersection of human expertise and AI. 
 
 **The Problem:**
 
