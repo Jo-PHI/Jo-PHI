@@ -1,6 +1,6 @@
 # Jo Esterly
 
-# I write and explore the powerful intelligence that emerges when the mind has exhausted its options.  
+# I write and explore the intelligence that emerges when the mind has exhausted its options.  
 
 **The Problem:**
 
