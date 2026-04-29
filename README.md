@@ -1,6 +1,6 @@
 # Jo Esterly
 
-# I am writing our Shadow Resume: the powerful intelligence that emerges when the mind has exhausted its options.  
+# I write and explore the powerful intelligence that emerges when the mind has exhausted its options.  
 
 **The Problem:**
 
