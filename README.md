@@ -1,6 +1,6 @@
 # Jo Esterly
 
-# I write and explore the intelligence that emerges when the mind has exhausted its options.  
+# I focus on mapping human expertise, constructive deviation and adaptive reasoning within optimized systems. I have conducted simulation studies tracing human overrides in system workflows and write regularly on the intersection of human expertise and AI. 
 
 **The Problem:**
 
@@ -16,7 +16,7 @@
 
       We contribute this integlligence every day, but rarely notice, rarely name: our Shadow Resume.
 
-**The Project:** 
+**The 2025 Preprint 001 Project:** 
 I am exploring what happens when we narrate this intelligence to AI models.  
 # By encoding our intangible intelligence, we found the enhanced model scanned for human intelligence before it flagged "error".
 
